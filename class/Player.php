@@ -14,9 +14,7 @@ class Player{
         $this->inventario = $inventario;
     }
 
-    // public function getInventario(): Inventario {
-    //     return $this->inventario;
-    // }
+
     public function setNickName($nickname):void{
         $this->nickname=$nickname;
 
